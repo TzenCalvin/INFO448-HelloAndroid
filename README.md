@@ -50,7 +50,7 @@ Click "OK", and you will see a new dialog box. THis will bring up a different di
 Now your Android Studio should be up to date.
 
 ### Build a Virtual Device
-Let's create a virtual device for use by the Android Emulator. Select "Tools > Device Manager" from the menubar, or click nn the "Device Manager" tab along the far right side of the IDE. (It'll be a vertical tab, and slide out from the right when you select it). You close this tab by clicking the "-" in the upper right corner of the tab, but don't do that just yet. Make sure "Virtual" is selected, and you can see the "Create Device" button--push it.
+Let's create a virtual device for use by the Android Emulator. Select "Tools > Device Manager" from the menubar, or click on the "Device Manager" tab along the far right side of the IDE. (It'll be a vertical tab, and slide out from the right when you select it). You close this tab by clicking the "-" in the upper right corner of the tab, but don't do that just yet. Make sure "Virtual" is selected, and you can see the "Create Device" button--push it.
 
 This dialog ("Virtual Device Configuration") is designed to allow us to create a virtual representation of a physical Android device. There's a lot of options here, but let's keep it simple. Make sure "Category" (on the far left) is set to "Phone", and go ahead and click on "Pixel XL" in the center table. You should see a display to the right of that table show you some dimensions for a Pixel XL device. Click "Next".
 
