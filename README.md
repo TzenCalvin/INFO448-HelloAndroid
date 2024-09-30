@@ -143,5 +143,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+    * Another feature: "Show taps"
+      * This feature will display a dot on wherever is being touched on the screen. This takes multiple inputs, so if multiple fingers are touching the screen, then multiple dots will appear. I imagine this would be useful if you were recording a video of your app and wanted to explicitly show the viewer where you are tapping the screen and if there are any hidden interactions that you can do with it, but otherwise I don't see myself using this feature very often when needing to debug, as I know where my fingers would be touching. However, this could be useful if my device became glitchy and was registering taps that I did not input, allowing me to see where my screen is broken.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
